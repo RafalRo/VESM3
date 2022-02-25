@@ -1,5 +1,5 @@
 # VESM3
-<h1>Lokaverkefni<h1>
+Lokaverkefni
 
 IoT box
   

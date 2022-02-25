@@ -11,6 +11,7 @@ matrix panel with python codes, all I found was done librarys which wasnt easly 
 Rafal started with just trying to panel display anything meanhwile ---- started working with gyro. After making panel to work we notices that there was problem
 that panel did not display all leds which led me to looking for an answer in code. The reason it didnt wotk was because Bonnet wasnt soldered properly
 so we hadto change it. By the time we got something to work we had 2h left so we ened up just doing simple profile with time and weather without gyro.
+Mostly to understand panel and bonnet we used thistutorial https://learn.adafruit.com/matrix-led-sand and also this library https://github.com/adafruit/RGB-matrix-Panel
   
 ---
 

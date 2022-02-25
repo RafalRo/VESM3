@@ -1,6 +1,6 @@
 <h1>Lokaverkefni</h1>
 
-IoT box<
+IoT box
   
   
   

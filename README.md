@@ -20,3 +20,7 @@ With 3D box we tried to have it as clean as possible, meaning no wires or visibl
 with room for cables, raspberry and batteries and gyro. It turned out fine, the only issue was attaching everything inside. Box took itself around 15h of printing
 so we did not having time for experimenting with it. We assumed that simple tape gonna make the work done. Everything turned out tight without even
 needing screws for panel( which i made a small/hink walls to hold panne with screws that are not visible).
+
+<h2>Heimildir</h2>
+
+https://github.com/hzeller/rpi-rgb-led-matrix

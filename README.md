@@ -1,9 +1,9 @@
 # VESM3
-Lokaverkefni
+<h1>Lokaverkefni</h1>
 
-IoT box
+<h2>IoT box</h2>
   
----
+  
   
 The idea was that we are gonna do a Iot box with change able profiles by rotating the box around. For example by default It would run time with some image/gif 
 on it by rotating it by 90° gyro would pick up the directions that a user made and on this basis would change a profile. Profiles supossed to be at least 3.

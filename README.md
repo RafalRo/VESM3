@@ -12,6 +12,7 @@ setja allt saman.
 ---
 
 3D Prentunn.
+
 boxin átti að vera snýrtileg. það þýðir að það eru ekkert skrúður eða tengingar sem er hægt að sjá. Út að því boxinn 
 er aðeins stærri en panel(panel er 160x160mm og box er 180x180mm) með plás fyrir batteri, raspberrypi og gyro. Boxinn kom út fint. eina 
 mál var að það er ekkert föst inni. Boxinn tók u.þ.b 15kl að printa þá við áttum ekki tíma til að hafa prototýpur. Tíl að hafa allt föst

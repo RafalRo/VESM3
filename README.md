@@ -24,3 +24,4 @@ needing screws for panel( which i made a small/hink walls to hold panne with scr
 <h2>Heimildir</h2>
 
 https://github.com/hzeller/rpi-rgb-led-matrix
+https://learn.adafruit.com/matrix-led-sand

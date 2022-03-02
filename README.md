@@ -24,3 +24,12 @@ fétt þess vegna á að pússa af tvær layer af lokin.
 
 https://github.com/hzeller/rpi-rgb-led-matrix 
 https://learn.adafruit.com/matrix-led-sand
+
+<h2>Myndband<h2>
+  https://www.youtube.com/watch?v=cqfreFepozo
+ 
+  
+---
+  
+  
+![20220225_120721](https://user-images.githubusercontent.com/77441025/156391084-1f015f6e-2cb8-40a1-9fdd-52a6b2ef257b.jpg)

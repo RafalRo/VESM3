@@ -18,12 +18,18 @@ er aðeins stærri en panel(panel er 160x160mm og box er 180x180mm) með plás f
 mál var að það er ekkert föst inni. Boxinn tók u.þ.b 15kl að printa þá við áttum ekki tíma til að hafa prototýpur. Tíl að hafa allt föst
 við ákveðum til að nota límband. lokaafurð var fint, allt var þétt og passsaði eins og var planað. Einn mál var þess að lokun var aðeins of 
 fétt þess vegna á að pússa af tvær layer af lokin. 
- 
+
+---
+
+Hitastig.
+
+Til að sýna hitastig var notað https://openweathermap.org/ API sem skilar JSON skrá sem var svo notuð til að fá upplýsingar um veður og hitastig á Íslandi sem síðan var unnið úr til að sýna hitastig á skjánum.
 
 <h2>Heimildir</h2>
 
 https://github.com/hzeller/rpi-rgb-led-matrix 
 https://learn.adafruit.com/matrix-led-sand
+https://www.geeksforgeeks.org/python-find-current-weather-of-any-city-using-openweathermap-api/
 
 <h2>Myndband<h2>
 https://www.youtube.com/watch?v=cqfreFepozo

@@ -28,7 +28,9 @@ Til að sýna hitastig var notað https://openweathermap.org/ API sem skilar JSO
 <h2>Heimildir</h2>
 
 https://github.com/hzeller/rpi-rgb-led-matrix 
+
 https://learn.adafruit.com/matrix-led-sand
+
 https://www.geeksforgeeks.org/python-find-current-weather-of-any-city-using-openweathermap-api/
 
 <h2>Myndband<h2>

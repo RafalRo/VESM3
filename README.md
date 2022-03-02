@@ -26,7 +26,7 @@ https://github.com/hzeller/rpi-rgb-led-matrix
 https://learn.adafruit.com/matrix-led-sand
 
 <h2>Myndband<h2>
-  https://www.youtube.com/watch?v=cqfreFepozo
+  ![mynd](https://www.youtube.com/watch?v=cqfreFepozo)
  
   
 ---

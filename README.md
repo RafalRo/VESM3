@@ -23,7 +23,7 @@ fétt þess vegna á að pússa af tvær layer af lokin.
 
 Hitastig.
 
-Til að sýna hitastig var notað https://openweathermap.org/ API sem skilar JSON skrá sem var svo notuð til að fá upplýsingar um veður og hitastig á Íslandi sem síðan var unnið úr til að sýna hitastig á skjánum.
+Til að sýna hitastig var notað https://openweathermap.org/ API sem skilar JSON skrá sem var svo notuð til að fá upplýsingar um veður á Íslandi ("Keflavik") sem síðan var unnið úr til að sýna hitastig á skjánum.
 
 <h2>Heimildir</h2>
 
